@@ -1,0 +1,3 @@
+rootProject.name = 'MediaApp'
+
+include ':app'
